@@ -29,21 +29,21 @@ const data = [
     },
     {
       "id": 5,
-      "subject": "HAK THE PLANE-IT!",
+      "subject": "Test5",
       "read": false,
       "starred": false,
       "labels": ["Galvanize"]
     },
     {
       "id": 6,
-      "subject": "Test5",
+      "subject": "Test6",
       "read": true,
       "starred": true,
       "labels": []
     },
     {
       "id": 7,
-      "subject": "Test6",
+      "subject": "Test7",
       "read": true,
       "starred": false,
       "labels": ["Personal"]
